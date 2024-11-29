@@ -1,5 +1,9 @@
 # Hi, I'm Sadia Akter ! 
 **Aspiring Mobile Developer | Flutter Enthusiast | Machine Learning Explorer**  
+## 🚀 About Me  
+I am a passionate **Mobile App Developer** with expertise in **Android** and **Flutter**. I am also delving into **Machine Learning** to address real-world challenges.  
+My focus is on creating dynamic, cross-platform mobile applications while continuously refining my skills and staying updated with modern development practices.
+
 
 
 <!--
