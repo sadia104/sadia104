@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Sadia Akter ! 
+**Aspiring Mobile Developer | Flutter Enthusiast | Machine Learning Explorer**  
+
 
 <!--
 **sadia104/sadia104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
